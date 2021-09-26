@@ -1,0 +1,173 @@
+[
+      {
+        "id": "2xqT6r1v",
+        "name": "Apple",
+        "generic": "Rose",
+        "originate": "mountains of Kazakhstan",
+        "latin": "Malus pumila",
+        "img": "https://images.unsplash.com/photo-1584306670957-acf935f5033c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=386&q=80",
+        "calories": 104
+      },
+      {
+        "id": "nTOUH4wW",
+        "name": "Apricot",
+        "generic": "Rose",
+        "originate": "China and Central Asia",
+        "latin": "Prunus armeniaca",
+        "img": "https://images.unsplash.com/photo-1572375835088-f13188b77a79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80",
+        "calories": 16.8
+      },
+      {
+        "id": "1gBiaWK3",
+        "name": "Avocado",
+        "generic": "Laurel",
+        "originate": "south-central Mexico",
+        "latin": "Persea americana",
+        "img": "https://images.unsplash.com/photo-1601039641847-7857b994d704?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGF2b2NhZG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 322
+      },
+      {
+        "id": "9QNyAxPa",
+        "name": "Banana",
+        "generic": "Banana",
+        "originate": "West Africa",
+        "latin": "Malus pumila",
+        "img": "https://images.unsplash.com/photo-1603052875302-d376b7c0638a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmFuYW5hfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 105
+      },
+      {
+        "id": "cQGUgHEk",
+        "name": "Blueberries",
+        "generic": "Heath",
+        "originate": "southern regions of New Jersey",
+        "latin": "Vaccinium cyanococcus",
+        "img": "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ymx1ZWJlcnJpZXN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 57
+      },
+      {
+        "id": "IeHGlToC",
+        "name": "Cherry",
+        "generic": "Rose",
+        "originate": "Washington, California, Oregon, Wisconsin, and Michigan",
+        "latin": "Prunus avium",
+        "img": "https://images.unsplash.com/photo-1439127989242-c3749a012eac?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlcnJ5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 50
+      },
+      {
+        "id": "C6I2WZXw",
+        "name": "Grape",
+        "generic": "Grape",
+        "originate": "Barbados",
+        "latin": "Vitis vinifera",
+        "img": "https://images.unsplash.com/photo-1609784431304-8144b5a5f017?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGdyYXBlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 69
+      },
+      {
+        "id": "3zYsvhZD",
+        "name": "Guava",
+        "generic": "Myrtle",
+        "originate": "mountains of Kazakhstan",
+        "latin": "Psidium guajava",
+        "img": "https://images.unsplash.com/photo-1600659090872-74ca5ca1023a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3VhdmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 37.4
+      },
+      {
+        "id": "UUM6Gho6",
+        "name": "Jackfruit",
+        "generic": "Artocarpus",
+        "originate": "Sri Lanka",
+        "latin": "Artocarpus heterophyllus",
+        "img": "https://images.unsplash.com/photo-1593441040270-7e4a9f75091e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8amFja2ZydWl0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 155
+      },
+      {
+        "id": "SsabcQrP",
+        "name": "Kiwi",
+        "generic": "Kiwi",
+        "originate": "New Zealand",
+        "latin": "Actinidia deliciosa",
+        "img": "https://images.unsplash.com/photo-1521997888043-aa9c827744f8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8a2l3aXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 46.4
+      },
+      {
+        "id": "McMEZ08j",
+        "name": "Lemon",
+        "generic": "Citrus fruit",
+        "originate": "Assam ,India",
+        "latin": "Citrus × limon",
+        "img": "https://images.unsplash.com/photo-1582287014914-1db836ccf0f5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGxlbW9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 25.8
+      },
+      {
+        "id": "ujFs4bxn",
+        "name": "Lychee",
+        "generic": "Soapberry",
+        "originate": "Southeast Asia",
+        "latin": "Litchi chinensis",
+        "img": "https://images.unsplash.com/photo-1627799269255-135759465cba?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bHljaGVlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 66
+      },
+      {
+        "id": "sVJwVP7S",
+        "name": "Mango",
+        "generic": "Cashew",
+        "originate": "Myanmar, Bangladesh and India",
+        "latin": "Mangifera indica",
+        "img": "https://images.unsplash.com/photo-1582655299221-2b6bff351df0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWFuZ298ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 107
+      },
+      {
+        "id": "ropjqjWa",
+        "name": "Orange",
+        "generic": "Citrus fruit",
+        "originate": "Southern China, Northeast India, and Myanmar",
+        "latin": "Citrus reticulata",
+        "img": "https://images.unsplash.com/photo-1547514701-42782101795e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b3JhbmdlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 86.5
+      },
+      {
+        "id": "F5LH0PXb",
+        "name": "Papaya",
+        "generic": "Papaya",
+        "originate": "mountains of Kazakhstan",
+        "latin": "Carica papaya",
+        "img": "https://images.unsplash.com/photo-1604778234463-762cf933e155?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGFwYXlhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 54.6
+      },
+      {
+        "id": "aCiyVh6x",
+        "name": "Pineapple",
+        "generic": "Pineapple",
+        "originate": "South America",
+        "latin": "Ananas comosus",
+        "img": "https://images.unsplash.com/photo-1490885578174-acda8905c2c6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGluZWFwcGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 82.5 
+      },
+      {
+        "id": "Eybsy27y",
+        "name": "Starfruit",
+        "generic": "Oxalis",
+        "originate": "tropical Southeast Asia",
+        "latin": "Averrhoa carambola",
+        "img": "https://images.unsplash.com/photo-1605879883262-0cd26b362f54?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3RhcmZydWl0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 28.2
+      },
+      {
+        "id": "nT92WJ1X",
+        "name": "Strawberry",
+        "generic": "Rose",
+        "originate": "Brittany, France",
+        "latin": "Fragaria × ananassa",
+        "img": "https://images.unsplash.com/photo-1588165171080-c89acfa5ee83?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3RyYXdiZXJyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 48.6
+      },
+      {
+        "id": "IorB6QxR",
+        "name": "Watermelon",
+        "generic": "Gourd",
+        "originate": " northeastern Africa",
+        "latin": "Citrullus lanatus",
+        "img": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8d2F0ZXJtZWxvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "calories": 46.2
+      }
+]
