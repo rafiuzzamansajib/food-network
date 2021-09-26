@@ -1,11 +1,22 @@
-# Getting Started with Create React App
+# Getting Started with My website Fruits Nutrition
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was about fruits consist caloris per 100g.This website holds some other information Fruits orgin,Scientific name,generic name.
 
-## Available Scripts
+## Website Live site link
+https://fruits-nutrition-enargy-website.netlify.app/
 
-In the project directory, you can run:
+### Fruits component
+this is the main part of this website.All Fruit Card and the cart is display here.
 
+### Fruits component
+Fruits information are display here.useState,useEffect are using this component js file.using map
+for display all fruit and also using onClick eventHandeler.
+
+### Fruit component
+using Destructuring method.Dynamically show all Fruits data
+
+### Cart Componet
+Add Fruts Item .Counting All added items and calculate the total caloris
 ### `npm start`
 
 Runs the app in the development mode.\
