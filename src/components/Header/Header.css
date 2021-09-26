@@ -1,8 +1,11 @@
 .header{
     background-color: black;
     height: 190px;
-    color: rgb(9, 9, 170);
+    color: rgb(17, 117, 231);
     text-align: center;
     margin-top: -20px;
     padding-top: 10px;
+}
+span{
+    color: white;
 }

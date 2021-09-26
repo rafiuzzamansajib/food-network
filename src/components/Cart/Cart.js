@@ -13,8 +13,8 @@ const Cart = (props) => {
     }
     return (
         <div>
-            <h3>Add Fruit Item : {totalFruitsAdd}</h3>
-            <h3>Calori Gain : {totalCalories.toFixed(2)} Kcal.</h3>
+            <h3>Fruit's Item : <span>{totalFruitsAdd}</span></h3>
+            <p>Enargy : <span>{totalCalories.toFixed(2)}</span> Kcal.</p>
             
         </div>
     );

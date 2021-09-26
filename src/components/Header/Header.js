@@ -4,9 +4,9 @@ import './Header.css'
 const Header = () => {
     return (
         <div className='header'>
-            <h2>Nurtritive Fruits</h2>
-            <p>Eat Everyday Nutritative Food For full fill Nutrition</p>
-            <h1>Daily Chaloris: 4500 ckal</h1>
+            <h2>Nutritive <span>Fruit</span>'s</h2>
+            <p><span>Eat Fruits Everyday To Full Fill Your Nutrition and Enargy</span></p>
+            <h1>Daily Enargy Needs : <span>2000</span> Kcal.</h1>
             
         </div>
     );

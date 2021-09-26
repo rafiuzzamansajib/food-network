@@ -1,6 +1,6 @@
 .fruit{
     background-color: whitesmoke;
-    border: 1px solid gray;
+    box-shadow: 10px 5px 5px gray;
     border-radius: 30px;
     margin: 10px;
 }
@@ -13,4 +13,36 @@
 .fruit-info{
     text-align: left;
     margin-left: 25px;
+}
+.add-btn{
+    background-color: rgb(17, 117, 231);
+    width: 200px;
+    border: none;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+    cursor: pointer;
+}
+.fa-shopping-cart{
+    margin-right: 10px;
+}
+.fa-blogger-b{
+    margin-left: 20px;
+    font-size: 25px;
+    padding: 5px;
+}
+.fa-blogger-b:hover{
+    background-color: rgb(17, 117, 231);
+    padding: 10px;
+    border-radius: 20px;
+}
+.fa-facebook{
+    font-size: 25px;
+    margin-left: 20px;
+    padding: 5px;
+}
+.fa-facebook:hover{
+    background-color: rgb(17, 117, 231);
+    padding: 10px;
+    border-radius: 20px;
 }
