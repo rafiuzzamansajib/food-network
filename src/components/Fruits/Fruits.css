@@ -1,9 +1,19 @@
 .fruits-container{
+    background-color: rgb(240, 230, 217);
     display: flex;
+    padding-top: 30px;
 }
 .fruit-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     text-align: center;
-    margin: 5px;
+    width: 75%;
+}
+.fruit-cart-container{
+    background-color: darkgray;
+    border-radius: 10px;
+    height: 200px;
+    width: 25%;
+    margin: 15px;
+    padding: 15px;
 }

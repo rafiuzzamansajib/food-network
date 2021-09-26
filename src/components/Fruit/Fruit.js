@@ -9,11 +9,12 @@ const Fruit = (props) => {
             <img src={img} alt="" />
             </div>
             <div className='fruit-info'>
-                <h4>Fruit: {name}</h4>
-                <h4>Generic: {generic}</h4>
-                <h4>Birth Place: {originate}</h4>
-                <h4>Scientific Name: <i>{latin}</i></h4>
-                <h4>Energy: {calories} kCal</h4>
+                <p>Fruit: {name}</p>
+                <p>Generic: {generic}</p>
+                <p>Birth Place: {originate}</p>
+                <p>Scientific Name: <i>{latin}</i></p>
+                <p>Energy: {calories} kCal</p>
+                <button onClick={()=> props.handelAddToCart(props.fruit)}>Add Calori</button>
             </div>        
         </div>
     );
