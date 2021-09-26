@@ -10,7 +10,6 @@ const Fruits = () => {
         fetch('./fruits.JSON')
         .then(res=>res.json())
         .then(data=>{
-            console.log(data);
             setFruits(data)
         })
     },[])

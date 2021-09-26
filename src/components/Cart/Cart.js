@@ -15,6 +15,11 @@ const Cart = (props) => {
         <div>
             <h3>Fruit's Item : <span>{totalFruitsAdd}</span></h3>
             <p>Enargy : <span>{totalCalories.toFixed(2)}</span> Kcal.</p>
+            <ul>
+                {
+                    cart.map(fruit=><li key = {fruit.id} >{fruit.name}</li>)
+                }
+            </ul>
             
         </div>
     );
